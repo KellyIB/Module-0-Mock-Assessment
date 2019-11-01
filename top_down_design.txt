@@ -1,0 +1,42 @@
+Making a Sandwich
+1 Decide what kind of sandwich you would like.
+  1.2 Think about what ingredients you have on hand
+  1.3 Think about what sandwiches you could make with possible combinations of ingredients
+  1.4 Decide which ingredients you are going to use
+2 Gather Supplies to make sandwich
+  2.1 Place ingredients to make sandwich near work surface
+    2.1.1 Gather cold ingredients
+      2.1.1.1 Go to fridge
+      2.1.1.2 Open fridge
+      2.1.1.3 Locate ingredients
+      2.1.1.4 Remove cold ingredients from storage in fridge
+      2.1.1.5 Close fridge
+      2.1.1.6 Deposit cold ingredients near work surface
+    2.1.2 Gather room temperature ingredients
+      2.1.2.1 Go to pantry
+      2.1.2.2 Open pantry
+      2.1.2.3 Locate room temperature ingredients
+      2.1.2.4 Remove room temperature ingredients from pantry
+      2.1.2.5 Close pantry
+      2.1.2.6 Deposit room temperature ingredients near work surface
+  2.2 Place work tools near work surface
+      2.2.1 Decide what tools you will need based on sandwich desired
+      2.2.2 Gather tools
+          2.2.2.1 Go to tool drawer
+          2.2.2.2 Open drawer
+          2.2.2.3 Locate tools
+          2.2.2.3 Remove tools
+          2.2.2.4 Close drawer
+          2.2.2.5 Deposit tools near work surface
+3 Prepare ingredients
+  3.1 Cut ingredients that need to be cut.
+  3.2 Remove sandwich portion of ingredients that are in packaging.
+  3.3 Open lids to ingredients that are applied with a tool
+  3.4 Place all appropriate ingredients on work surface
+4 Assemble sandwich
+  4.1 Lay 2 slices of bread about
+  4.2 Apply sandwich (if used) lube with tools
+  4.3 Apply other cold ingredients
+  4.4 Apply other room temperature ingredients
+  4.5 Put Loaded bread together (other ingredients facing each other; dry bread outward)
+  4.6 Cut sandwich
