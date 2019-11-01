@@ -1,0 +1,39 @@
+
+ Class: Plant
+
+Object: Aloe Vera
+
+ Attributes:
+ rootDepth: 5
+ rootWidth: 5
+ plantHeight: 8
+ plantWidth: 5
+ wateringFrequency: 14
+ plantZone: "zone 8"
+ indoorPlant: false
+
+ Methods:
+
+ calculateRootSize: 5 * 5 = 25
+ calculateBiomass: 8 * 5 = 40
+ potPlant: indoorPlant = true
+ relocateWithPlant: "zone 4"
+
+
+ Object: African Violet
+
+  Attributes:
+  rootDepth: 3
+  rootWidth: 3
+  plantHeight: 3
+  plantWidth: 5
+  wateringFrequency: 7
+  plantZone: "zone 9"
+  indoorPlant: false
+
+  Methods:
+
+  calculateRootSize: 3 * 3 = 9
+  calculateBiomass: 3 * 5 = 15
+  potPlant: indoorPlant = true
+  relocateWithPlant: "zone 6"
