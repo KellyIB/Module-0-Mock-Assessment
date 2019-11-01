@@ -1,0 +1,24 @@
+Inside of your classes.txt file, pick at least one of the classes below
+and define 5 attributes and 4 methods for that class. Make sure that your
+methods either change an attribute, or utilize attributes for calculation
+or display purposes.
+
+
+Class: Plant
+
+Attributes:
+rootDepth (integer)
+rootWidth (integer)
+plantHeight (integer)
+plantWidth (integer)
+wateringFrequency (integer)
+lastWatering (integer)
+plantAlive (boolean)
+plantCondition (string)
+
+
+Methods:
+calculateTimeUntilWatering (subtracts lastWatering from wateringFrequency)
+calculateRootSize (multiplies rootDepth by rootWidth)
+calculateBiomass (multiplies plantWidth by plantHeight)
+waterNeeded (boolean check using plantAlive and calculateTimeUntilWatering)
