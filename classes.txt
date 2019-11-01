@@ -12,13 +12,12 @@ rootWidth (integer)
 plantHeight (integer)
 plantWidth (integer)
 wateringFrequency (integer)
-lastWatering (integer)
-plantAlive (boolean)
-plantCondition (string)
-
+plantZone (string)
+indoorPlant (boolean)
 
 Methods:
-calculateTimeUntilWatering (subtracts lastWatering from wateringFrequency)
+
 calculateRootSize (multiplies rootDepth by rootWidth)
 calculateBiomass (multiplies plantWidth by plantHeight)
-waterNeeded (boolean check using plantAlive and calculateTimeUntilWatering)
+potPlant (changes indoorPlant from false to true)
+relocateWithPlant (changes plantZone)
